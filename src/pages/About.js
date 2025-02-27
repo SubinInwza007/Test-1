@@ -18,8 +18,8 @@ function About() {
       <section className="my-4 bg-light p-4 rounded shadow">
         <h3 className="text-success">Our Goals</h3>
         <p>
-          To nurture skilled professionals in information technology who can adapt to 
-          the dynamic needs of the industry and contribute to societal development.
+        เพื่อปลูกฝังผู้ประกอบวิชาชีพด้านเทคโนโลยีสารสนเทศที่สามารถปรับตัวได้ 
+          ความต้องการแบบไดนามิกของอุตสาหกรรมและมีส่วนช่วยในการพัฒนาสังคม
         </p>
       </section>
 
@@ -27,8 +27,8 @@ function About() {
       <section className="my-4 bg-light p-4 rounded shadow">
         <h3 className="text-success">Our Vision</h3>
         <p>
-          "To be a pioneer in information technology education, fostering innovation, 
-          creativity, and leadership for a sustainable future."
+          "เป็นผู้บุกเบิกการศึกษาด้านเทคโนโลยีสารสนเทศ ส่งเสริมนวัตกรรม 
+          ความคิดสร้างสรรค์และความเป็นผู้นำเพื่ออนาคตที่ยั่งยืน"
         </p>
       </section>
     </div>
